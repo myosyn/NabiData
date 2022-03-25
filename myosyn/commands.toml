@@ -1,0 +1,11 @@
+[[command]]
+name = "euphoria"
+help = "Gives the download link to the Euphoria mod."
+title = "Euphoria"
+description = "You can download Euphoria here (https://github.com/ulypse/euphoria/releases)."
+
+[[command]]
+name = "logs"
+help = "Gives information to the user how to send the logs"
+title = "Logs"
+description = "You can send your logs in your ../../%appdata%/.minecraft/logs"
